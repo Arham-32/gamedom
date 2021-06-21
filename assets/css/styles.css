@@ -1,0 +1,715 @@
+.slider-1{
+    color: #df204c;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'serif';
+    padding-top: 70px;
+    max-width: 47%;
+    line-height: 81px;
+}
+.btn-slider {
+    margin-top: 42px;
+}
+.btn-sliders-2:hover{
+    background-color: white;
+    color: #3e3e3e;
+    transition: 0.5s;
+}
+.btn-sliders-2 {
+    margin-top: 42px;
+    color: white;
+    text-decoration: none;
+    background-color: #0d6efd;
+    padding: 15px 30px;
+    font-weight: 700;
+    line-height: 63px !important;
+}
+.item-1{
+    background-image: url("/gamedom/banner-slider1.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 531px;
+}
+.item-2{
+    background-image: url("/gamedom/banner-slider2.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 531px;
+}
+.item-3{
+    background-image: url("/gamedom/banner-slider3.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 531px;
+}
+.col.navs {
+    padding-bottom: 30px;
+    padding-top: 5px;
+}
+a.navigations:hover{
+    color: rgba(255, 255, 255, 0.856);
+    transition: 0.5s;
+}
+a.navigations {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.651);
+}
+.col.navs {
+    text-align: center;
+}
+.foot a {
+    text-decoration: none;
+    color: rgba(245, 245, 245, 0.438);
+}
+p.foot {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.651);
+    font-size: 16px;
+    word-spacing: 1px;
+    margin-top: 40px;
+}
+.col.brand {
+    text-align: center;
+}
+img.logo-brand {
+    max-width: 10%;
+}
+.row.partners {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.partners{
+    align-items: baseline;
+}
+.icons{
+    text-align: center;
+}
+a.know-base-btn-2:hover{
+    background-color:#5644ca;
+    color: white;
+    transition: 0.3s;
+}
+a.know-base-btn-2 {
+    color: #5644ca;
+    background-color: white;
+    text-decoration: none;
+    padding: 15px 65px;
+    font-weight: 700;
+    font-size: 13px;
+}
+a.know-base-btn:hover{
+    background-color:#df204c ;
+    color: white;
+    transition: 0.3s;
+}
+a.know-base-btn {
+    color: #df204c;
+    background-color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+    font-weight: 700;
+    font-size: 13px;
+}
+.wrapper {
+    text-align: center;
+    margin-top: 35px;
+}
+h3.common-issues {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.knowledge-base{
+    text-align: center;
+    padding-top: 150px;
+    font-family: 'Circular-Loom';
+    font-weight: 1000;
+    font-size: 25px;
+}
+.sect-1{
+    background-image: url("/gamedom/nfs-section.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.sect-2{
+    background-image: url("/gamedom/nfs-section-2.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+a.events:hover {
+    background-color: #df204c;
+    transition: 0.5s;
+    color: white;
+}
+.events{
+    margin-top: -117px !important;
+    text-decoration: none;
+    color: #df204dd5;
+    background-color: white;
+    padding: 20px 30px;
+    font-weight: 700;
+}
+.box-2{
+    width: 100%;
+    height: 278px;
+    background-color: #df204dd5 ; 
+    border-radius: 20px; 
+    padding: 50px 50px;
+}
+.victiries{
+    font-size: 34px;
+}
+.section-home-2{
+    float: right;
+}
+a.Btn.button:hover {
+    color: #252836;
+    transition: 0.5s;
+}
+a.Btn.button {
+    color: white;
+    text-decoration: none;
+    background-color: #0d6efd;
+    padding: 15px 30px;
+    font-weight: 700;
+    line-height:63px !important;
+}
+.para-3{
+        color: rgba(255, 255, 255, 0.733);
+        max-width: 90%;
+}
+.unleash{
+    color: white;
+    max-width: 80%;
+    font-size: 48px;
+    line-height: 69px;
+}
+.keep-calm{
+    font-family: 'Circular-Loom';
+    font-style: italic;
+    font-size: 17px;
+}
+.box {
+    background-color: #252836;
+    height: 350px;
+    width: 556px;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+a.btn.community-ply:hover{
+    background-color: #df204c;
+    color: white;
+}
+a.btn.community-ply {
+    padding: 15px 30px !important;
+    font-family: 'Circular-Loom';
+    font-weight: bold;
+    color: #211f2a;
+}
+a.btn {
+    color: white;
+    background: #5644CA;
+}
+img.team-img-2 {
+    display: flex;
+    margin: 0 auto;
+}
+img.team-img-3.float-right {
+    float: right !important;
+}
+.row {
+    --bs-gutter-x: 0;
+}
+.team-img{
+    max-width: 65%;
+}
+.team-img-2{
+    max-width: 65%;
+}
+.team-img-3{
+    max-width: 65%;
+}
+h1.players {
+    text-align: center;
+    font-size: 52px;
+    color: white;
+}
+.title-3 {
+    font-size: 20px;
+    color: #df204d;
+    text-align: center;
+}
+section.team-sec{
+    background-color: #211f2a;
+}
+h2.title-2 {
+    margin-top: 97px !important;
+}
+.para-2 {
+    border-left: 3px solid #211f2a;
+    padding-left: 10px;
+}
+h2.title-2 {
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 74px;
+}
+a.btn-danger:hover {
+    color: #df204d;
+    background-color: white;
+    transition: 0.5s;
+}
+a.btn-light:hover {
+    color: white;
+    background-color: #bb2d3b;
+    transition: 0.5s;
+}
+a.btn-light {
+    padding: 15px 30px !important;
+    text-decoration: none !important;
+    font-family: 'Circular-Loom' !important;
+    color: #df204d;
+    font-weight: 500;
+}
+a.btn-danger {
+    padding: 15px 30px !important;
+    text-decoration: none !important;
+    font-family: 'Circular-Loom' !important;
+    font-weight: 500;
+}
+a.btn-danger-2 {
+    padding: 15px 30px !important;
+    text-decoration: none !important;
+    font-family: 'Circular-Loom' !important;
+    font-weight: 500;
+    background-color: #df204d;;
+    color: white;
+}
+a.btn-danger-2:hover {
+    color: #df204d;
+    background-color: white;
+    transition: 0.5s;
+}
+p.discription.mt-3 {
+    border-left: 3px solid;
+    padding-left: 15px;
+}
+.discription{
+    color: white;
+}
+h2#title {
+    color: white;
+    font-size: 94px;
+}
+.owl-dots {
+    position: absolute !important;
+    bottom: 10px !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+}
+h3.shadow-pack {
+    font-size: 19px;
+    font-family: -webkit-pictograph;
+    font-weight: 600;
+    color: #df204d;
+}
+.owl-nav{
+    display: none;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #211f2a;
+}
+   @media only screen and (max-width: 425px) {
+    .show {
+        display: none;
+    }
+    .navbar-dark .navbar-nav .nav-link{
+        color: #211f2a !important;
+    } 
+    div#mainNavbar {
+        display: flex;
+        position: fixed;
+        height: 100%;
+        width: 100%;
+        background: #fff;
+        left: 0;
+        top: 0;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 375px) {
+    h2.unleash {
+        margin: 0 auto;
+    }
+}
+  
+@media only screen and (max-width: 375px) {
+    .btnsr {
+        margin-top: 46px;
+    }
+}
+@media only screen and (max-width: 375px) {
+  img.section-home-01 {
+        max-width: 70% !important;
+    }
+}
+@media only screen and (max-width: 375px) {
+    img.section-home-2 {
+        max-width: 70% !important;
+    }
+}
+  @media only screen and (max-width: 425px) {
+    form.form-inline.d-inline-flex.search-bar{
+        margin-top: 21px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .navbar-nav-2{
+        display: none;
+    }
+}
+.banner-img{
+    background-size: cover;
+    max-width: 100%;
+}
+@media only screen and (max-width: 1024px) {
+    .exp {
+        max-width: 100% !important;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .col-img {
+        max-width: 100% !important;
+        text-align: center !important;
+        margin: 0 auto;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .ist-row {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+}
+@media only screen and (min-width: 1024) {
+    .col-6.box-col {
+        max-width: 50% !important;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .col-6.col-game-img {
+        max-width: 100% !important;
+        text-align: center !important;
+        margin-top: -71px !important;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    p.para-2 {
+        max-width: 70%;
+        margin: 0 auto;
+        padding-top: 10px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .col-6.box-col {
+        max-width: 100% !important;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .box {
+        margin: 0 auto !important;
+        margin-top: 55px !important;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .col-game-img {
+        text-align: center !important;
+        margin-top: -20px !important;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .nfs-row-rev {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .section-home-2 {
+        float: none;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .img-nfs {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .img-nfs {
+        margin-top: -55px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .box-2 {
+        width: 100%;
+        height: 365px !important;
+    }
+}
+@media only screen and (max-width: 768px) {
+    a.events {
+        float: none !important;
+        margin-top: 0px !important;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .upcomming-btn {
+        margin-top: 51px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    h3.common-issues {
+        font-size: 24px !important;    
+    }
+}
+@media only screen and (max-width: 425px) {
+    .box {
+        width: 355px !important;    
+    }
+}
+@media only screen and (max-width: 425px) {
+    img.car-nfs-img {
+        width: 75%;
+    }
+}
+@media only screen and (max-width: 425px) {
+    h2#title {
+        color: white;
+        font-size: 54px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    h2.title-2 {
+        font-size: 45px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    h1.players {
+        font-size: 38px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .col-sm-4.frst-imges {
+        text-align: center;
+        margin-top: 30px;
+    }
+}
+@media only screen and (min-width: 426px) {
+    img.team-img-3 {
+        float: right;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .box {
+        height: 435px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .unleash {
+        line-height: 51px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .box-2 {
+        height: 453px !important;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .icons {
+        margin-top: 40px;
+    }
+}
+@media only screen and (max-width: 375px) {
+    a.events {
+        font-size: 14px !important;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .box {
+        width: 252px !important;
+    }
+}
+@media only screen and (max-width: 320px) {
+    h2.unleash {
+        font-size: 32px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    h2.title-2 {
+        font-size: 31px;
+        line-height: 44px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    span.victiries {
+        font-size: 28px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    h2.unleash {
+        font-size: 22px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .box {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 320px) {
+    a.Btn.button {
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    h2.take-1 {
+        font-size: 40px !important;
+    }
+}
+@media only screen and (max-width: 320px) {
+    span.events-1 {
+        font-size: 33px !important;
+    }
+}
+@media only screen and (max-width: 320px) {
+    a.events {
+        font-size: 13px !important;
+        padding: 16px 12px;
+        }
+}
+@media only screen and (max-width: 320px) {
+    .box-2 {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .col-sm-auto.btnsr {
+        margin-top: 46px !important;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    h1.slider-1 {
+        margin-top: -60px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    h1.slider-1 {
+        font-size: 46px;
+        line-height: 60px;
+        max-width: 80%;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    h1.slider-1 {
+        margin-top: 10px;
+    }
+}
+@media only screen and (max-width: 375px) {
+    h1.slider-1 {
+        margin-top: -19px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .col-6.img-col {
+        width: 80% !important;
+    }
+}
+.banner-row{
+    background-color: #3e3e3e;
+}
+.aboutus{
+    color: white;
+}
+.call-duty{
+    max-width: 100%;
+}
+.title-col {
+    align-self: center;
+    padding-left: 60px;
+}
+.title-col-2 {
+    align-self: center;
+}
+.read-more:hover {
+    color: #df204d;
+    background-color: rgb(241, 237, 237);
+    transition: 0.5s;
+}
+.read-more {
+    color: white;
+    text-decoration: none;
+    background-color: #0d6efd;
+    padding: 15px 25px;
+    font-weight: 700;
+    line-height:63px !important;
+}
+.pera-about {
+    max-width: 80%;
+}
+.row-two-rev {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+@media only screen and (max-width: 768px) {
+    .col-6.title-col {
+        width: 100%;
+        padding: 0;
+        margin-top: 50px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .row-two-rev {
+        display: block;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .col-6.title-col-2 {
+        width: 100%;
+        margin-top: 50px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .pera-about {
+        max-width: 100%;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .col-6.img-col {
+        margin: 0 auto;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .col-6.title-col {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .col-6.title-col-2 {
+        text-align: center;
+    }
+}
+/* @media only screen and (max-width: 1440px) {
+    .sect-2 {
+        width: 554px;
+        float: left;
+    }
+}
+@media only screen and (max-width: 1440px) {
+    .sect-1 {
+        width: 554px;
+    }
+}
+
+ */
